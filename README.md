@@ -50,4 +50,4 @@ Achieved over 85% accuracy on test data using Random Forest.
 
 ---
 
-## 🙋‍♀️ Made with ❤️ by Anisha ([@YourGitHubUsername](https://github.com/yourusername))
+## 🙋‍♀️ Made with ❤️ by Anisha (https://github.com/yourusername))
